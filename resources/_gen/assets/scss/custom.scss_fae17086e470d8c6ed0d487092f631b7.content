@@ -1,0 +1,19 @@
+@charset "UTF-8";
+:root {
+  --cn-font: "ZCOOL QingKe HuangYou", sans-serif;
+  --en-font: "Roboto", sans-serif;
+  --nav-font: "Noto Serif SC", sans-serif; }
+
+/* 中文页面字体 */
+body:lang(zh-cn) {
+  font-family: var(--cn-font) !important; }
+  body:lang(zh-cn) h1, body:lang(zh-cn) h2, body:lang(zh-cn) h3, body:lang(zh-cn) h4, body:lang(zh-cn) h5, body:lang(zh-cn) h6 {
+    font-family: var(--cn-font) !important; }
+
+/* 英文页面字体 */
+body:lang(en) {
+  font-family: var(--cn-font) !important; }
+  body:lang(en) h1, body:lang(en) h2, body:lang(en) h3, body:lang(en) h4, body:lang(en) h5, body:lang(en) h6 {
+    font-family: var(--cn-font) !important; }
+
+/*# sourceMappingURL=custom.css.map */

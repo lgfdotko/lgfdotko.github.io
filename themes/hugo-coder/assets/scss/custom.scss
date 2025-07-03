@@ -1,0 +1,23 @@
+:root {
+  --cn-font: "ZCOOL QingKe HuangYou", sans-serif;
+  --en-font: "Roboto", sans-serif;
+  --nav-font: "Noto Serif SC", sans-serif;
+}
+
+/* 中文页面字体 */
+body:lang(zh-cn) {
+  font-family: var(--cn-font) !important;
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: var(--cn-font) !important;
+  }
+}
+
+/* 英文页面字体 */
+body:lang(en) {
+  font-family: var(--cn-font) !important;
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: var(--cn-font) !important;
+  }
+}
