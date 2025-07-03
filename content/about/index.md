@@ -1,7 +1,7 @@
 +++
-title: "About Me"
-date: 2025-07-04
-draft: false
+title = "About Me"
+date = 2025-07-04
+draft = false
 +++
 Hello! My name is Guofeng Li,
 I am a third-year PhD candidate in computer architecture at 
