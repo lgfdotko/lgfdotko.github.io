@@ -26,8 +26,8 @@ author = "Guofeng Li"
 # license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
 description = "Guofeng's Lab"
 keywords = "blog,developer,researcher"
-info = ["PhD Candidate in Computer Architecture", "ICT, CAS, China", "liguofeng22s@ict.ac.cn"]
-avatarURL = "images/avatar.jpg"
+info = ["liguofeng22s@ict.ac.cn"]
+#avatarURL = "images/avatar.jpg"
 #gravatar = "john.doe@example.com"
 dateFormat = "January 2, 2006"
 since = 2025
@@ -150,7 +150,7 @@ url = "https://github.com/vinslee77/"
 
 [[params.social]]
 name = "Zhihu"
-icon = "fa-brands fa-gitlab fa-2x"
+icon = "fa-brands fa-zhihu fa-2x"
 weight = 2
 url = "https://www.zhihu.com/people/kyrie-newton"
 
@@ -178,7 +178,7 @@ title = "GFLab"
 
 [languages.zh-cn.params]
 author = "李国峰"
-info = ["计算机体系结构博士研究生", "中国科学院计算技术研究所", "liguofeng22s@ict.ac.cn"]
+info = ["liguofeng22s@ict.ac.cn"]
 description = "Guofeng's Lab"
 keywords = "blog,developer,researcher"
 
