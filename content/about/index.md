@@ -24,20 +24,20 @@ Please contact me at liguofeng22s[at]ict[dot]ac[dot]cn.
 **University of Chinese Academic of Sciences (UCAS)**
 
 # Projects
-**`2023-2024`** | **VSCODE: Virtualizing NVMe Storage and Computational On-Datapath Engines**  
 **`2024-present`** | **Hardware-assisted intra-process address space isolation**  
+**`2023-2024`** | **VSCODE: Virtualizing NVMe Storage and Computational On-Datapath Engines**  
 
 # Publications
 ERROR: NULL pointer dereference detected
 
 # Teaching Assistant
-**`2021-2022`** | **Computer Organization and Design**  
-**`2022-2023`** | **Computer Organization and Design**  
+**`2024-2025`** | **Labs of Computer Organization and Design**  
 **`2023-2024`** | **Labs of Computer Organization and Design**  
-**`2024-2025`** | **Labs of Computer Organization and Design** 
+**`2022-2023`** | **Computer Organization and Design**  
+**`2021-2022`** | **Computer Organization and Design**  
 
 # Awards
-**`2023-2024`** | **Outstanding Student Award, State Key Laboratory of Processor (SKLP, ICT)**  
-**`2023-2024`** | **Outstanding Student Award, Center for Advanced Computer Systems (ACS, ICT)**  
-**`2023-2024`** | **Outstanding Undergraduate Course Teaching Assistant Award, UCAS**  
 **`2024-2025`** | **Outstanding Student Award (Merit Student), UCAS​**  
+**`2023-2024`** | **Outstanding Undergraduate Course Teaching Assistant Award, UCAS**  
+**`2023-2024`** | **Outstanding Student Award, Center for Advanced Computer Systems (ACS, ICT)**  
+**`2023-2024`** | **Outstanding Student Award, State Key Laboratory of Processor (SKLP, ICT)**  
