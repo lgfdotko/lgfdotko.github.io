@@ -26,7 +26,7 @@ author = "Guofeng Li"
 # license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
 description = "Guofeng's Lab"
 keywords = "blog,developer,researcher"
-info = ["liguofeng22s@ict.ac.cn"]
+info = ["liguofeng22s[at]ict[dot]ac[dot]cn"]
 #avatarURL = "images/avatar.jpg"
 #gravatar = "john.doe@example.com"
 dateFormat = "January 2, 2006"
@@ -178,7 +178,7 @@ title = "GFLab"
 
 [languages.zh-cn.params]
 author = "李国峰"
-info = ["liguofeng22s@ict.ac.cn"]
+info = ["liguofeng22s[at]ict[dot]ac[dot]cn"]
 description = "Guofeng's Lab"
 keywords = "blog,developer,researcher"
 

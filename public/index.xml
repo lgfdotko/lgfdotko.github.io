@@ -2,11 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>GFLab</title>
-    <link>http://localhost:1313/</link>
+    <link>http://localhost:2222/</link>
     <description>Recent content on GFLab</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 04 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:2222/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>http://localhost:2222/about/</link>
+      <pubDate>Fri, 04 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:2222/about/</guid>
+      <description>&lt;p&gt;Hello! My name is Guofeng Li,&#xA;I am a third-year Ph.D. candidate in computer architecture at&#xA;Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS),&#xA;advised by Prof. Ninghui Sun and Prof. Mingyu Chen.&lt;/p&gt;&#xA;&lt;p&gt;My research focuses on hardware-assisted memory safety, secure hardware design&#xA;and heterogeneous computing. My technical work involves developing Linux kernel drivers and FPGA prototypes, with hands-on experience implementing PCIe, AXI, and NVMe solutions through hw-sw co-design.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
