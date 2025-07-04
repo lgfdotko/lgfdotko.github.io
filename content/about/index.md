@@ -6,7 +6,9 @@ draft = false
 Hello! My name is Guofeng Li,
 I am a third-year Ph.D. candidate in computer architecture at 
 Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS), 
-advised by Prof. Ninghui Sun and Prof. Mingyu Chen.
+advised by Prof. Ninghui Sun and Prof. Mingyu Chen as my doctoral supervisors.
+Earlier during my Master's at the same institute, 
+I was supervised by Prof. Ke Zhang and Assoc. Prof. Yisong Chang.
 
 My research focuses on hardware-assisted memory safety, secure hardware design
 and heterogeneous computing. My technical work involves developing Linux kernel drivers and FPGA prototypes, with hands-on experience implementing PCIe, AXI, and NVMe solutions through hw-sw co-design.
@@ -28,7 +30,7 @@ Please contact me at liguofeng22s[at]ict[dot]ac[dot]cn.
 # Publications
 ERROR: NULL pointer dereference detected
 
-# Teaching
+# Teaching Assistant
 **`2021-2022`** | **Computer Organization and Design**  
 **`2022-2023`** | **Computer Organization and Design**  
 **`2023-2024`** | **Labs of Computer Organization and Design**  

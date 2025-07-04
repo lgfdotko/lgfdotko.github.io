@@ -13,7 +13,7 @@
       <link>http://localhost:2222/about/</link>
       <pubDate>Fri, 04 Jul 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:2222/about/</guid>
-      <description>&lt;p&gt;Hello! My name is Guofeng Li,&#xA;I am a third-year Ph.D. candidate in computer architecture at&#xA;Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS),&#xA;advised by Prof. Ninghui Sun and Prof. Mingyu Chen.&lt;/p&gt;&#xA;&lt;p&gt;My research focuses on hardware-assisted memory safety, secure hardware design&#xA;and heterogeneous computing. My technical work involves developing Linux kernel drivers and FPGA prototypes, with hands-on experience implementing PCIe, AXI, and NVMe solutions through hw-sw co-design.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Hello! My name is Guofeng Li,&#xA;I am a third-year Ph.D. candidate in computer architecture at&#xA;Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS),&#xA;advised by Prof. Ninghui Sun and Prof. Mingyu Chen as my doctoral supervisors.&#xA;Earlier during my Master&amp;rsquo;s at the same institute,&#xA;I was supervised by Prof. Ke Zhang and Assoc. Prof. Yisong Chang.&lt;/p&gt;&#xA;&lt;p&gt;My research focuses on hardware-assisted memory safety, secure hardware design&#xA;and heterogeneous computing. My technical work involves developing Linux kernel drivers and FPGA prototypes, with hands-on experience implementing PCIe, AXI, and NVMe solutions through hw-sw co-design.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
