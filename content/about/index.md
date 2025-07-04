@@ -35,7 +35,7 @@ ERROR: NULL pointer dereference detected
 **`2024-2025`** | **Labs of Computer Organization and Design** 
 
 # Awards
-**`2023-2024`** | **Outstanding Student Award, State Key Laboratory of Processor Chip (SKLP, ICT)**  
+**`2023-2024`** | **Outstanding Student Award, State Key Laboratory of Processor (SKLP, ICT)**  
 **`2023-2024`** | **Outstanding Student Award, Center for Advanced Computer Systems (ACS, ICT)**  
 **`2023-2024`** | **Outstanding Undergraduate Course Teaching Assistant Award, UCAS**  
 **`2024-2025`** | **Outstanding Student Award (Merit Student), UCAS​**  
