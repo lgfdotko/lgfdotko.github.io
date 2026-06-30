@@ -31,6 +31,12 @@
         </div>
       </header>
 
+      {{ if .Params.toc }}
+        <details class="toc" open>
+          <summary><strong>{{ i18n "table_of_contents" | default "Table of Contents" }}</strong></summary>
+          {{ .TableOfContents }}
+        </details>
+      {{ end }}
       <div class="post-content">
         {{ if .Params.featuredImage }}
           <img src="{{ .Params.featuredImage | relURL }}" alt="Featured image"/>
