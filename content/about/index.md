@@ -4,14 +4,14 @@ date = 2025-07-04
 draft = false
 +++
 Hello! My name is Guofeng Li,
-I am a third-year Ph.D. candidate in computer architecture at 
+I am a fourth-year Ph.D. student in computer architecture at 
 Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS), 
 advised by Prof. Ninghui Sun and Prof. Mingyu Chen as my doctoral supervisors.
 Earlier during my Master's at the same institute, 
 I was supervised by Prof. Ke Zhang and Assoc. Prof. Yisong Chang.
 
-My research focuses on hardware-assisted memory safety, secure hardware design
-and heterogeneous computing. My technical work involves developing Linux kernel drivers and FPGA prototypes, with hands-on experience implementing PCIe, AXI, and NVMe solutions through hw-sw co-design.
+My research focuses on high-performance I/O architecture, hardware-assisted memory safety
+and heterogeneous computing. My technical work involves developing Linux kernel drivers, user-space drivers (DPDK/SPDK) and FPGA prototypes, with hands-on experience implementing PCIe, AXI, and NVMe solutions through hw-sw co-design.
 
 ​​​I welcome discussions with researchers working on related topics — feel free to reach out for potential collaborations in computer architecture and systems!
 Please contact me at liguofeng22s[at]ict[dot]ac[dot]cn.
@@ -24,6 +24,7 @@ Please contact me at liguofeng22s[at]ict[dot]ac[dot]cn.
 **University of Chinese Academic of Sciences (UCAS)**
 
 # Projects
+**`2025-present`** | **SKIO: Enabling Secure Kernel-bypass I/O through Lightweight DMA Isolation**  
 **`2024-present`** | **Hardware-assisted intra-process address space isolation**  
 **`2023-2024`** | **VSCODE: Virtualizing NVMe Storage and Computational On-Datapath Engines**  
 
